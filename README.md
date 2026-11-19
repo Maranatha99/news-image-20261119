@@ -1,8 +1,8 @@
 # THE WORLD — Thursday 19 November 2026
 
-[![make.fun](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
-[![make.fun rank](https://make.fun/badge/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119)
-[![make.fun reward](https://make.fun/badge/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/Maranatha99/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/Maranatha99/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
 A one-image newspaper front page summing up the world's news of **Thursday 19 November 2026** — 55 stories in a single 1024×1024 image.
 
